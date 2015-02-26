@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_03
+Built-By: Sujit
+Created-By: Maven Integration for Eclipse
+Main-Class: edu.wctc.spring.boot.rest.demo1.SampleDataRestApplication
+
