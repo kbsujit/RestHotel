@@ -1,7 +1,10 @@
 About the RestHotel Project
 ---------------------------
+<<<<<<< HEAD
 added new line after removing the file 
 
+=======
+>>>>>>> parent of bf47a26... New Line Added to README file
 This is a simle demo of RESTful Web Services in the HATEOAS style using Sring Boot, Spring Data-JPA and Spring Data-REST. It includes a simple Cross Origin Request Filter (CORS) so that it may be accessed from anyl domain. It includes a client front-end using HTML5 and JavaScript/JQuery 2.x to demonstrate the REST calls. This can be accessed at http://localhost:8080. When running the web app you can access the REST API documentation by clicking on the link on the home page.
 
 To test the REST calls without running the client-side web app you can use CURL on a *nix-based O/S. Example:
